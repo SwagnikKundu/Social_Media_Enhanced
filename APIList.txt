@@ -1,0 +1,32 @@
+UserController:
+* Register - Done
+* Login - Done
+* Request OTP - Done
+* Reset Password - Done 
+* Get Specific User - Done
+* Get All Users - Done
+* Update User Details - Done
+* Logout User - Done
+
+PostController:
+* Add Post - Done
+* Get a Specific Post - Done
+* Get all Posts for specific user - Done
+* Delete a specific post - Done
+* Update a post - Done
+
+CommentController:
+* Add Comment - Done
+* Update Comment - Done
+* Get a Comment - Done
+* Delete a Comment -Done
+
+LikeController:
+* Get Likes for Post or Comment - Done
+* Toggle Likes for Post or Comment - Done
+
+FriendshipController:
+* Get Friends list of user - Done
+* Get Pending Friend Requests - Done
+* Toggle Friendship - Done
+* Respond to Friendship Request -Done 
